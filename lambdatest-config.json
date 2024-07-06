@@ -23,7 +23,7 @@
       "reporter_config_file": "base_reporter_config.json",
       "build_name": "cypress-bulld",
       "parallels": 2,
-      "specs": "cypress/cypress/e2e/1-getting-started/testScenarioCypressCertifications.cy.js",
+      "specs": "cypress/cypress/e2e/testscenario.cy.js",
       "ignore_files": "",
       "network": true,
       "headless": true,
